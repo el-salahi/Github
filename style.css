@@ -11,3 +11,11 @@ p {
     font-size: 30px;
     color:burlywood;
 }
+
+section {
+    color: aquamarine;
+    border: 2px solid pink;
+    padding: 10px;
+    font-size: 40px;
+    margin: 60px auto;
+}
